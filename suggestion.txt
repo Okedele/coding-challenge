@@ -1,0 +1,1 @@
+In the php solution written, OOP (Object-Oriented Programming) approach was used. Among its many benefits is the scalability. It gives fast response time and this also helps for faster response even when trying to bill 100,000 users within 4.5hrs
